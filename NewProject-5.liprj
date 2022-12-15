@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="zh-cn" xml:lang="zh-cn" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="">
+    <ProjectFile Source="Target/Certificate Specification.flprj" Target="Target/Certificate Specification.flprj" />
+</LingoProject>
